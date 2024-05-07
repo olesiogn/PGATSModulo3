@@ -1,0 +1,17 @@
+{
+  "name": "pgatsmodulo3trabalho",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusão do modulo 3 da PGATS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Olesio",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
